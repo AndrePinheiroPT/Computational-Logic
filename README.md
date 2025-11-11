@@ -14,3 +14,4 @@ In contrast, the logic used here is relatively simple: it is often limited to pr
 
 ## Final grades:
 * [TP1](./TP1): A+
+* [TP2](./TP2): A
