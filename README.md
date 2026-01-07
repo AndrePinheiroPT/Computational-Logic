@@ -17,3 +17,5 @@ In contrast, the logic used here is relatively simple: it is often limited to pr
 * [TP2](./TP2): A
 * [TP3](./TP3): A
 * [TP4](./TP4): A
+
+Final grade: 19/20
